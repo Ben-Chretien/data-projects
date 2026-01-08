@@ -1,0 +1,8 @@
+# Ignore raw data
+data/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore external data directories
+data_projects/
