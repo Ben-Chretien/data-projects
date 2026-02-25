@@ -3,6 +3,7 @@ data/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+*.csv
 
 # Ignore external data directories
 data_projects/
