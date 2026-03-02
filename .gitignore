@@ -1,9 +1,16 @@
-# Ignore raw data
-data/
+# --------------------
+# Data directories
+# --------------------
 
-# Ignore Jupyter checkpoints
-.ipynb_checkpoints/
+# Ignore any folder named "data" anywhere in the repo
+**/data/
+
+# Ignore common data file types
 *.csv
+*.xlsx
 
-# Ignore external data directories
-data_projects/
+# --------------------
+# Jupyter
+# --------------------
+
+.ipynb_checkpoints/
