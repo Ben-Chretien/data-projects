@@ -1,0 +1,4 @@
+Model,Features,Key Parameters,R2,RMSE
+Linear Regression,All features after one-hot encoding,Default,0.827,5192
+Ridge Regression,All features after one-hot encoding,alpha=1.0,0.827,5192
+Random Forest,All features after one-hot encoding,n_estimators=10; max_depth=10,0.888,4179

@@ -7,6 +7,7 @@
 
 # Ignore common data file types
 *.csv
+!airline_delay_model_metrics.csv
 *.xlsx
 
 # --------------------
