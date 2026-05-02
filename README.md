@@ -11,7 +11,7 @@ This repository contains my work from the Springboard Data Science Track, focuse
 
 ## Projects
 
-### Airline Delay Analysis (Capstone — In Progress)
+### Airline Delay Analysis (Capstone)
 - Analyzing airline delay data to identify key contributing factors
 - Building regression models to predict arrival delays
 - Evaluating model performance using R² and RMSE
